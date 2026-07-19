@@ -1,5 +1,3 @@
-# AI-Trust-Real-World-Case-Studies
-Research-based collection of real-world AI case studies exploring Trustworthy AI, Human–AI Interaction (HAI), AI Ethics, Responsible AI, Explainable AI (XAI), Fairness, Accountability, and AI Safety.
 # AI Trust Real-World Case Studies
 
 > A research-oriented collection of real-world Artificial Intelligence (AI) case studies analyzing Trustworthy AI principles, Human–AI Interaction (HAI), Responsible AI, AI Ethics, Explainable AI (XAI), Fairness, Accountability, and AI Safety.
