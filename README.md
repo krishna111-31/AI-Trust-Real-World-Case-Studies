@@ -38,10 +38,6 @@ The objective is to provide an educational resource for students, researchers, d
 
 Additional case studies will be added as the repository grows.
 
----
-
----
-
 
 ---
 ## Topics Covered
