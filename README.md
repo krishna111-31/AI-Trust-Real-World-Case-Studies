@@ -26,18 +26,6 @@ The objective is to provide an educational resource for students, researchers, d
 
 ---
 
-## Case Studies
-
-| Case Study | Primary Topics |
-|------------|----------------|
-| Amazon AI Recruiting Tool (2018) | Bias, Fairness, Recruitment AI |
-| COMPAS Recidivism Algorithm | Fairness, Transparency, Accountability |
-| Microsoft Tay Chatbot (2016) | AI Safety, Content Moderation |
-| ChatGPT Hallucinations | Reliability, Explainability, Human Oversight |
-| Tesla Autopilot | Human–AI Interaction, Automation, Safety |
-
-Additional case studies will be added as the repository grows.
-
 
 ---
 ## Topics Covered
