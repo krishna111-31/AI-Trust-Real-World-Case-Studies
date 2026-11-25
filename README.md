@@ -6,11 +6,6 @@
 
 ## About
 
-Artificial Intelligence is transforming industries worldwide, but its adoption also introduces significant technical, ethical, and societal challenges. Understanding these challenges requires examining how AI systems perform in real-world environments rather than relying solely on theoretical concepts.
-
-This repository presents a collection of carefully researched case studies on well-known AI systems. Each case study examines the background, technical implementation, challenges, ethical concerns, Trustworthy AI principles involved, outcomes, and lessons learned.
-
-The objective is to provide an educational resource for students, researchers, developers, and AI practitioners interested in building and evaluating trustworthy and human-centered AI systems.
 
 ---
 
